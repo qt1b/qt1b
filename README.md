@@ -1,3 +1,5 @@
+[🇯🇵️日本語](README.ja.md)・[🇫🇷️French](README.fr.md)
+
 Hi, I’m @qt1b.
 - 👀 I’m interested in open source and language learning
 - 🌐️ I'm fluent in English, Japanese and French 
