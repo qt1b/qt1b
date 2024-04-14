@@ -1,4 +1,4 @@
-[🇯🇵️日本語](README.ja.md)・[🇫🇷️French](README.fr.md)
+[🇯🇵️日本語](README.ja.md)・[🇫🇷️Français](README.fr.md)
 
 Hi, I’m @qt1b.
 - 👀 I’m interested in open source and language learning
