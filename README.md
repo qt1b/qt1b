@@ -1,6 +1,6 @@
-[🇯🇵️日本語](README.ja.md)・[🇫🇷️Français](README.fr.md)
+[🇫🇷️Français](README.fr.md)・[🇯🇵️日本語](README.ja.md)
 
 Hi, I’m @qt1b.
-- 👀 I’m interested in open source and language learning
-- 🌐️ I'm fluent in English, Japanese and French 
-- 💬️ I plan on contributing to open source projects
+- Student at EPITA and abroad student at Sejong University
+- Intrested in Cyber Security, CTF player in PWN, Reverse and Misc
+- 🌐️ Fluent in English, Japanese, French and Korean learner
