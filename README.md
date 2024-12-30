@@ -2,7 +2,7 @@ Hi, I’m @qt1b.
 
 - 👨‍💻 Intrested in Cyber Security, CTF player in PWN, Reverse and Misc
 - 🌍 Fluent in English, [Japanese](README.ja.md) and [French](README.fr.md). Korean learner
-- 🎓 Student at EPITA a:d abroad student at Sejong University
+- 🎓 Student at EPITA and abroad student at Sejong University
 - 🌐️ [My website](https://qt1b.github.io), mostly consists of writeups
 
 Programming Languages: C, Python, C#, Go, Rust
